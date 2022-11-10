@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@font-face {
+  font-family: 'dangernight' , display;
+  src: url('dangernight.otf') format('opentype') ,
+  url('dangernight.ttf') format('truetype');
+}
+
+.h21
+{
+    
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: lighter; /*para retirar o bold*/
+
+    }
+
+ 
+.h22
+{
+  
+  font-family: 'Pacifico' , cursive;
+}
+
+
+.h23 {
+font-family: 'dangernight', serif;
+}
